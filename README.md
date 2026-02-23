@@ -22,7 +22,7 @@ Quá trình Benchmark sử dụng 10 tập dữ liệu riêng biệt, mỗi tậ
 ## Độ chính xác và Tính toàn vẹn
 
 - **Đo lường thời gian:** Sử dụng time.perf_counter() để đảm bảo độ chính xác cao trong phép đo.
-- **Độc lập dữ liệu:** Mỗi thuật toán làm việc trên một b���n sao độc lập (.copy()) để đảm bảo tính khách quan.
+- **Độc lập dữ liệu:** Mỗi thuật toán làm việc trên một bản sao độc lập (.copy()) để đảm bảo tính khách quan.
 - **Giới hạn hệ thống:** Tăng sys.setrecursionlimit để xử lý an toàn 1 triệu đệ quy mà không gây lỗi Stack Overflow.
 
 ## Yêu cầu

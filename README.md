@@ -41,6 +41,12 @@ Yêu cầu
     Thư viện: numpy, pandas, matplotlib
 
 Cài đặt
-git clone https://github.com/nguyen-phan-nhat-tan/Sorting-Algorithms-Comparison
-pip install requirements.txt
-python src/benchmark.py
+
+    git clone https://github.com/nguyen-phan-nhat-tan/Sorting-Algorithms-Comparison
+
+    pip install requirements.txt
+    
+    python src/benchmark.py
+
+
+

@@ -1,4 +1,4 @@
-Data,Quicksort,Heapsort,Mergesort,sort (python),sort (numpy)
+Data,Quicksort,Heapsort,Mergesort,sorted (python),sort (numpy)
 1,3135.4,7089.62,2824.06,32.99,23.4
 2,3068.26,6904.76,2854.93,138.67,22.95
 3,5712.54,10950.96,5708.89,819.51,18.12

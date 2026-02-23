@@ -34,6 +34,6 @@ Quá trình Benchmark sử dụng 10 tập dữ liệu riêng biệt, mỗi tậ
 
 ```bash
 git clone https://github.com/nguyen-phan-nhat-tan/Sorting-Algorithms-Comparison
-pip install requirements.txt
+pip install -r requirements.txt
 python src/benchmark.py
 ```
